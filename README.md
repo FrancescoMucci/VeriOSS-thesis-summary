@@ -1,6 +1,6 @@
 # VeriOSS master's thesis summary
 
-This repository contains the summary of my thesis work for the [master's degree in computer science](https://www.informaticamagistrale.unifi.it/) at the [University of Florence](https://www.unifi.it/).
+This repository contains the summary of my thesis work for the [Master's degree in Computer Science](https://www.informaticamagistrale.unifi.it/) at the [University of Florence](https://www.unifi.it/).
 
 See https://github.com/FrancescoMucci/VeriOSS-thesis for the thesis.
 
